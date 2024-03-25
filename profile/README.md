@@ -2,6 +2,8 @@
 ## Sobre
 Este repositório contém o código-fonte e os recursos relacionados à implementação do Hackaton do curso de Software Archicture.
 
+O objetivo do projeto é a criação de um sistema de registro de pontos.
+
 
 Diagrama da implantação do MVP
 
